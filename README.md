@@ -13,6 +13,9 @@ With **12+ years of experience across Manufacturing and Construction**, my work 
   <a href="https://github.com/Girish-Kakwani">
     <img src="https://img.shields.io/badge/GitHub-Girish--Kakwani-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://github.com/Girish-Kakwani/Girish-Kakwani-Portfolio/blob/main/Girish%20Kakwani%20Resume%202026.pdf">
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-2EA44F?style=for-the-badge" alt="Download Resume"/>
+  </a>
 </p>
 
 ---
